@@ -1,7 +1,8 @@
-# SongFeatures_Unsupervised
-Song Features Analysis of Country and Pop Songs using Clustering Analysis Techniques:
+
 
 # Pop and Country Songs Audio Features Analysis:
+Song Features Analysis of Country and Pop Songs from 1990s onwards Using Clustering Analysis Techniques
+
 
 ### Background:
 
@@ -49,6 +50,6 @@ and in the end specifically explore if there are differences between Taylor Swif
 - What patterns do we find with the song features?
 
 
-Full Analysis with Findings can be accessed in the main notebook: 00_SongFeaturesAnalysis_Unsupervised_Project.ipynb
+Full Analysis with Findings can be accessed in the main notebook: [00_SongFeaturesAnalysis_Unsupervised_Project.ipynb](https://github.com/ayeshavm/SongFeatures_Unsupervised/blob/master/notebooks/00_SongsFeatureAnalysis_Unsupervised_Project.ipynb)
 
 
